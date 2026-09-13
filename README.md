@@ -158,7 +158,6 @@ Ecommerce-Sales-Analytics-Dashboard
 # 📷 Dashboard Screenshot
 <img width="630" height="334" alt="Dashboard" src="https://github.com/user-attachments/assets/7fdc8043-6379-426c-9e90-224775edc65f" />
 
-
 ---
 
 ## 🚀 Key Highlights
