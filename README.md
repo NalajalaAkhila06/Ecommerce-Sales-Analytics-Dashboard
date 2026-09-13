@@ -163,7 +163,7 @@ Ecommerce-Sales-Analytics-Dashboard
 
 Watch the complete dashboard walkthrough:
 
-[▶️ View Dashboard Demo](./dashboard-demo.mp4)
+[▶️ Watch Dashboard Demo](https://raw.githubusercontent.com/NalajalaAkhila06/Ecommerce-Sales-Analytics-Dashboard/main/dashboard-demo.mp4)
 
 ---
 
