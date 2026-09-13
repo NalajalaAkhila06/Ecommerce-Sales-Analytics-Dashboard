@@ -161,9 +161,9 @@ Ecommerce-Sales-Analytics-Dashboard
 
 ## 🎥 Dashboard Demo
 
-A complete walkthrough of the dashboard:
+Watch the complete dashboard walkthrough:
 
-[▶️ Watch Dashboard Demo](./Dashboard Video.mp4)
+[▶️ View Dashboard Demo](./dashboard-demo.mp4)
 
 ---
 
