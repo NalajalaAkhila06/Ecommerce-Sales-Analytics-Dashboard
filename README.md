@@ -150,6 +150,7 @@ Ecommerce-Sales-Analytics-Dashboard
 │
 ├── PowerBI/
 │   └── Ecommerce_Sales_Analytics_Dashboard.pbix
+└──Dashboard Video.mp4
 └── README.md
 ```
 
@@ -162,7 +163,7 @@ Ecommerce-Sales-Analytics-Dashboard
 
 A complete walkthrough of the dashboard:
 
-[▶️ Watch Dashboard Demo](./dashboard-demo.mp4)
+[▶️ Watch Dashboard Demo](./Dashboard Video.mp4)
 
 ---
 
